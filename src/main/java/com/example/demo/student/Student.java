@@ -1,6 +1,7 @@
-package com.example.demo.Student;
+package com.example.demo.student;
 
 import java.time.LocalDate;
+
 
 public class Student {
     private Long id;
